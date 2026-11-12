@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608909563708",
+    "project_id": "fir-image-upload-c271e",
+    "storage_bucket": "fir-image-upload-c271e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608909563708:android:2e6bcf5d00b10097fd7039",
+        "android_client_info": {
+          "package_name": "com.example.firebaseimageupload"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJhdHjgDXjaq3EzgWNpQ1zcGeB3Qg9bg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
